@@ -1,15 +1,9 @@
 @charset "UTF-8";
 
-/*!
-Animate.css - http://daneden.me/animate
-Licensed under the MIT license - http://opensource.org/licenses/MIT
-
-Copyright (c) 2013 Daniel Eden
-*/
 
 
 html, body {
-	overflow: hidden; 
+	overflow: hidden;
 }
 
 .animated {
